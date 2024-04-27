@@ -4,8 +4,8 @@ export const byName: string[] = [
   "Design to code",
   "Landing pages",
   "Website templates",
-  "Convert to Tailwind CSS",
-  "Convert to Astro",
+  "Mobile apps",
+  "Web apps",
 
 ];
 
