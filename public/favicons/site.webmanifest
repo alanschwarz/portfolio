@@ -1,0 +1,41 @@
+{
+    "name": "cpx.studio",
+    "short_name": "cpx.studio",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "Design and development services.",
+    "icons": [
+      {
+        "src": "favicons/touch/homescreen48.png",
+        "sizes": "48x48",
+        "type": "image/png"
+      },
+      {
+        "src": "favicons/touch/homescreen72.png",
+        "sizes": "72x72",
+        "type": "image/png"
+      },
+      {
+        "src": "favicons/touch/homescreen96.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      },
+      {
+        "src": "favicons/touch/homescreen144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      },
+      {
+        "src": "favicons/touch/homescreen168.png",
+        "sizes": "168x168",
+        "type": "image/png"
+      },
+      {
+        "src": "favicons/touch/homescreen192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
+  
